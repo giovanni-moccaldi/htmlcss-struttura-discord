@@ -72,3 +72,20 @@ header{
     flex-direction: row-reverse;
 
 }
+.fifth-section{
+    width: auto;
+    height: 500px;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    
+
+}
+.green{
+    height: 450px;
+    width: 1000px;
+    background-color: green;
+    border: black 1px solid;
+    
+}
