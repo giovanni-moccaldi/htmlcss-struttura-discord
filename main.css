@@ -65,11 +65,11 @@ header{
 .fourth-section{
     width: auto;
     height: 500px;
-    background-color: white;
+    background-color: grey;
     display: flex;
     align-items: center;
     justify-content: center; 
-    flex-direction: row-reverse;
+   flex-direction: row-reverse;
 
 }
 .fifth-section{
@@ -87,5 +87,21 @@ header{
     width: 1000px;
     background-color: green;
     border: black 1px solid;
+    
+}
+.six-section{
+    width: auto;
+    height: 500px;
+    background-color: rgb(232, 39, 39);
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+
+}
+
+.colonna{
+    width: 100px;
+    height: 40px;
+    background-color: white;
     
 }
