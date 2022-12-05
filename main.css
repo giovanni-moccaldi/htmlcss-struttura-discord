@@ -148,10 +148,30 @@ header{
     height: 50px;
     border: 1px solid black;
     display: flex;
+    
+    
+    
+    justify-content: center; 
+    
    
     
 }
 .logo{
-    justify-content: flex-end;
+    
     
 }
+.bottone{
+    
+    
+}
+.bottoni{
+    height: 50px;
+    width: 1000px;
+    background-color: green;
+    align-items:center;
+    flex-direction: row;
+
+    
+
+}
+    
