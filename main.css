@@ -25,23 +25,50 @@ header{
     background-color: blue;
     display: flex;
     align-items: center;
-    justify-content: center;
-    
-    
-   
-    
+    justify-content: center;   
 
 }
 .square{
     height: 450px;
     width: 1000px;
     background-color: pink;
-    flex-direction: column;
-   
+    flex-direction: column;    
+    
+}
+.third-section{
+    width: auto;
+    height: 500px;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
     
     
     
+
+
+}
+.blue{
+    height: 350px;
+    width: 300px;
+    background-color: blue;
+    flex-basis: 40%;
     
+}
+.pink{
+    background-color: pink;
+    height: 350px;
+    width: 300px;
     
 }
 
+.fourth-section{
+    width: auto;
+    height: 500px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    flex-direction: row-reverse;
+
+}
